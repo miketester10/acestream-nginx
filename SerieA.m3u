@@ -18,6 +18,12 @@ http://154.12.117.204:4002/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea403
 #EXTINF:-1, Eleven Sport 3 FullHD (50fps)
 http://154.12.117.204:4002/ace/getstream?infohash=95bf662561dba1859c9e4763f4ae7d9d1918fb0d
 
+#EXTINF:-1, МАTCH 1 HD (50fps)
+http://154.12.117.204:4002/ace/getstream?infohash=79f88ec166e314743c187a4932772e435ab54f87
+
+#EXTINF:-1, МАTCH 2 HD (50fps)
+http://154.12.117.204:4002/ace/getstream?infohash=cf52f10c63de0165cedeaf04d6cfe03d77387d5d
+
 #EXTINF:-1, МАТЧ Verde FullHD (50fps)
 http://154.12.117.204:4002/ace/getstream?infohash=0bb7252a2a8dd3704b3a6c0538478450b8987012
 
