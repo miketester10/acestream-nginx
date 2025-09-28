@@ -1,0 +1,40 @@
+#EXTM3U Serie A
+
+#EXTINF:-1, Eleven Sport 1 4K (50fps)
+http://154.12.117.204:4002/ace/getstream?infohash=f25b57322b5337df43bfde801e03f70363737581
+
+#EXTINF:-1, Eleven Sport 1 FullHD (50fps)
+http://154.12.117.204:4002/ace/getstream?infohash=73d24aeff6515abb236ea8a3e77d89fe0b04b665
+
+#EXTINF:-1, Eleven Sport 1 FullHD (50fps)
+http://154.12.117.204:4002/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+
+#EXTINF:-1, Eleven Sport 2 FullHD (50fps)
+http://154.12.117.204:4002/ace/getstream?infohash=ae964a3fb5009d462ceb6e60dd56b3cfa8159620
+
+#EXTINF:-1, Eleven Sport 2 FullHD (50fps)
+http://154.12.117.204:4002/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+
+#EXTINF:-1, Eleven Sport 3 FullHD (50fps)
+http://154.12.117.204:4002/ace/getstream?infohash=95bf662561dba1859c9e4763f4ae7d9d1918fb0d
+
+#EXTINF:-1, МАТЧ Verde FullHD (50fps)
+http://154.12.117.204:4002/ace/getstream?infohash=0bb7252a2a8dd3704b3a6c0538478450b8987012
+
+#EXTINF:-1, МАТЧ Verde
+http://154.12.117.204:4002/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+
+#EXTINF:-1, МАТЧ Oro FullHD (50fps)
+http://154.12.117.204:4002/ace/getstream?infohash=f69b2859510dce33b992dd1940f95254c6e6f51c
+
+#EXTINF:-1, МАТЧ Oro
+http://154.12.117.204:4002/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+
+#EXTINF:-1, PIMPLETV.RU
+http://154.12.117.204:4002/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+
+#EXTINF:-1, SETANTA SPORT 1
+http://154.12.117.204:4002/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+
+#EXTINF:-1, Sky Sport FHD (Premier League)
+http://154.12.117.204:4002/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f

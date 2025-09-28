@@ -1,0 +1,16 @@
+services:
+  nginx:
+    image: nginx:latest
+    container_name: Nginx-Acestream
+    restart: unless-stopped
+    ports:
+      - "4002:80"  # unica porta pubblica
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    networks:
+      - acestream-network
+
+networks:
+  acestream-network:
+    external: true
+

@@ -1,0 +1,17 @@
+services:
+  acestream:
+    image: vstavrinov/acestream-service
+    container_name: Acestream
+    restart: unless-stopped
+    environment:
+      - SCHEME=http
+      - ENTRY=4002
+      - PORT=80
+    expose:
+      - "80"  # visibile solo all'interno della rete "acestream-network"
+    networks:
+      - acestream-network
+
+networks:
+  acestream-network:
+    external: true
