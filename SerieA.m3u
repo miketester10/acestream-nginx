@@ -48,8 +48,5 @@ http://154.12.117.204:4002/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abe
 #EXTINF:-1, Sky Sport FHD (Premier League)
 http://154.12.117.204:4002/ace/getstream?infohash=e33fb63ba12cf45bcee7757c8520f561ad27a39f
 
-#EXTINF:-1, S SPORT 1 FullHD (30fps)
-http://154.12.117.204:4002/ace/getstream?infohash=30af1c9a383678470e282b2a1176dfb11a43b6aa
-
 #EXTINF:-1, TNT Sports 1 FHD (50fps)
 http://154.12.117.204:4002/ace/getstream?infohash=19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
