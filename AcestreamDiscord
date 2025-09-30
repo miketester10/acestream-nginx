@@ -1,0 +1,82 @@
+#EXTM3U AcestreamDiscord
+
+#EXTINF:-1, 🇪🇸 M+ Plus
+http://154.12.117.204:4002/ace/getstream?id=c3c3f61bea8a17fb59105278de704a548b58f2dc
+
+#EXTINF:-1, 🇪🇸 Campeones
+http://154.12.117.204:4002/ace/getstream?id=b7f1b616724b08a3c981e08dd89f138294ccb042
+
+#EXTINF:-1, 🇪🇸 Campeones 2
+http://154.12.117.204:4002/ace/getstream?id=dd93c8469d02c179a63bcf9a3fcf0970bf7bb04f
+
+#EXTINF:-1, 🇪🇸 Campeones 3
+http://154.12.117.204:4002/ace/getstream?id=4cd17d525469e65e0b898aad86257f21a61fefdb
+
+#EXTINF:-1, 🇪🇸 Campeones 5
+http://154.12.117.204:4002/ace/getstream?id=e2737e7a8d93fcf25d0f687c2fe79dc7496b23d9
+
+#EXTINF:-1, 🇪🇸 Campeones 6
+http://154.12.117.204:4002/ace/getstream?id=991f1c87728632037ecdd730b0c44f9933863119
+
+#EXTINF:-1, 🇪🇸 Campeones 7
+http://154.12.117.204:4002/ace/getstream?id=d0c92cf5ad82ea19dc8df8bafd4fa61e40f98762
+
+#EXTINF:-1, 🇪🇸 Campeones 8
+http://154.12.117.204:4002/ace/getstream?id=63789ef8cb07422638a2176c2c4cf29d6882df17
+
+#EXTINF:-1, 🇬🇧 TNT Sports 1
+http://154.12.117.204:4002/ace/getstream?id=149309354822cda53409ee4773bb1eb3bc680b91
+
+#EXTINF:-1, 🇬🇧 TNT Sports 2
+http://154.12.117.204:4002/ace/getstream?id=699b3bc2bea01959da4452edbe1ec9b6b5b96729
+
+#EXTINF:-1, 🇬🇧 TNT Sports 3
+http://154.12.117.204:4002/ace/getstream?id=7e10752e818f165ff7b58051154fe6a9d98337df
+
+#EXTINF:-1, 🇬🇧 TNT Sports 4
+http://154.12.117.204:4002/ace/getstream?id=0830682723b353266c1cb424c19de1dbd8aac9b6
+
+#EXTINF:-1, 🇬🇧 TNT Sports 5
+http://154.12.117.204:4002/ace/getstream?id=9cfa2bbbae8790d60fb5a97cf54f441d698d5e75
+
+#EXTINF:-1, 🇬🇧 TNT Sports 6
+http://154.12.117.204:4002/ace/getstream?id=fe31f25ebf4034bc1ed938898409fb5e199c035f
+
+#EXTINF:-1, 🇬🇧 TNT Sports 7
+http://154.12.117.204:4002/ace/getstream?id=3fb04e14ad047a5ec10c36a0c0ca77d331c85e9c
+
+#EXTINF:-1, 🇬🇧 TNT Sports 8
+http://154.12.117.204:4002/ace/getstream?id=1465f5b101117dc1c0074fc0379a3f55d8e5b7d4
+
+#EXTINF:-1, 🇬🇧 Sky Sports+ TV
+http://154.12.117.204:4002/ace/getstream?id=2fc1031fe61123ab491c33b087aa45c005c40405
+
+#EXTINF:-1, 🇬🇧 Sky Sports Main Event
+http://154.12.117.204:4002/ace/getstream?id=130c04fc855c3f88644390e04b6d12f877051bae
+
+#EXTINF:-1, 🇵🇹 Sport TV5 Portugal
+http://154.12.117.204:4002/ace/getstream?id=cc66bae9be5eaf30ce046c82259f4a9d5ae3e48f
+
+#EXTINF:-1, 🇵🇹 DAZN 1 Portugal
+http://154.12.117.204:4002/ace/getstream?id=e2cba4dce6c0795b738fe4b0001db90b1294835a
+
+#EXTINF:-1, 🇵🇹 DAZN 2 Portugal
+http://154.12.117.204:4002/ace/getstream?id=ecb7ebae0103361e3a5eb86f7db43143071a95c9
+
+#EXTINF:-1, 🇵🇹 DAZN 3 Portugal
+http://154.12.117.204:4002/ace/getstream?id=311073a879829ae93fcf9966f5a9d0038c3e32bf
+
+#EXTINF:-1, 🇵🇹 DAZN 4 Portugal
+http://154.12.117.204:4002/ace/getstream?id=095e98003ab5732a4ad0bf240ad0cdd192649d0c
+
+#EXTINF:-1, 🇺🇦 Megogo Sport Ukraine
+http://154.12.117.204:4002/ace/getstream?id=80acfa2dae2df0efd277121ee15ae698eeccbddd
+
+#EXTINF:-1, 🇷🇺 Okko Futbol
+http://154.12.117.204:4002/ace/getstream?id=3ca30d6d287d33c9aceef56c40b2153aa1b4b86c
+
+#EXTINF:-1, 🇷🇺 Okko Prime Sport
+http://154.12.117.204:4002/ace/getstream?id=850e74919a19b8e6d2285c31a81ed69bf2547fd1
+
+#EXTINF:-1, 🇷🇺 MATCH! Futbol 2
+http://154.12.117.204:4002/ace/getstream?id=aa3a462731173c7df902705e5500d20c9e3ac093
