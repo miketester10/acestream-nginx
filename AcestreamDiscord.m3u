@@ -24,18 +24,6 @@ http://154.12.117.204:4002/ace/getstream?id=d0c92cf5ad82ea19dc8df8bafd4fa61e40f9
 #EXTINF:-1, 🇪🇸 Campeones 8
 http://154.12.117.204:4002/ace/getstream?id=63789ef8cb07422638a2176c2c4cf29d6882df17
 
-#EXTINF:-1, 🇩🇪 Dazn 1 Bar FullHD
-http://154.12.117.204:4002/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-
-#EXTINF:-1, 🇩🇪 Dazn 1 Bar HD
-http://154.12.117.204:4002/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-
-#EXTINF:-1, 🇩🇪 Dazn 2 Bar FullHD
-http://154.12.117.204:4002/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-
-#EXTINF:-1, 🇩🇪 Dazn 2 Bar HD
-http://154.12.117.204:4002/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-
 #EXTINF:-1, 🇬🇧 TNT Sports 1
 http://154.12.117.204:4002/ace/getstream?id=149309354822cda53409ee4773bb1eb3bc680b91
 
