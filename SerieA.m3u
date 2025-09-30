@@ -1,6 +1,10 @@
 #EXTM3U Serie A
 
-#EXTINF:-1, Dazn 2 Bar FullHD (50 fps)
+
+#EXTINF:-1, Dazn 1 Bar FullHD
+http://154.12.117.204:4002/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+
+#EXTINF:-1, Dazn 2 Bar FullHD
 http://154.12.117.204:4002/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
 
 #EXTINF:-1, Eleven Sport 1 4K (50fps)
