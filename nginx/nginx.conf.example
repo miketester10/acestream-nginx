@@ -7,7 +7,7 @@ server {
         deny all;
 
         # Inoltra le richieste al container Acestream
-        proxy_pass http://AcestreamEngine:6878;
+        proxy_pass http://AcestreamEngine:6878; # 6878 è la porta del container AcestreamEngine esposta solo all'interno del network "acestream-network"
 
         # Headers corretti per il proxy
         proxy_set_header Host $host;
