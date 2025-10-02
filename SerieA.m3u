@@ -7,6 +7,10 @@ http://154.12.117.204:4002/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0
 #EXTINF:-1, Dazn 2 Bar FullHD
 http://154.12.117.204:4002/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
 
+# EXTINF:-1, Dazn 2 Portogallo
+http://154.12.117.204:4002/
+/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+
 #EXTINF:-1, Eleven Sport 1 4K (50fps)
 http://154.12.117.204:4002/ace/getstream?infohash=f25b57322b5337df43bfde801e03f70363737581
 
