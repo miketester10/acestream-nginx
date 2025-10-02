@@ -1,13 +1,22 @@
 server {
-    listen 80;
+    listen 4002;
 
     location / {
-        proxy_pass http://Acestream:80;
-        allow <IP-HOME>;
+        # Consenti solo a questo IP
+        allow <IP-HOME>;  # Sostituire con l'ip di casa o con quello a cui vogliamo consentire per l'accesso ad Acestream
         deny all;
 
+        # Inoltra le richieste al container Acestream
+        proxy_pass http://AcestreamEngine:6878;
+
+        # Headers corretti per il proxy
         proxy_set_header Host $host;
         proxy_set_header X-Real-IP $remote_addr;
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+
+        # Disabilita buffering e cache
+        proxy_buffering off;
+        proxy_cache off;
+        proxy_ignore_headers Cache-Control;
     }
 }
