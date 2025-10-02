@@ -3,5 +3,9 @@ services:
     container_name: AcestreamEngine
     image: wafy80/acestream:latest
     restart: unless-stopped
-    ports:
-      - "4002:6878"
+    networks:
+      - acestream-network
+
+networks:
+  acestream-network:
+    external: true
