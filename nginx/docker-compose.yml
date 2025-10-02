@@ -4,7 +4,7 @@ services:
     container_name: Nginx-Acestream
     restart: unless-stopped
     ports:
-      - "4002:80"  # unica porta pubblica
+      - "4002:4002"
     volumes:
       - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
     networks:
