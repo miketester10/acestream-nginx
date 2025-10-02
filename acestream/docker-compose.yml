@@ -1,17 +1,7 @@
 services:
   acestream:
-    image: vstavrinov/acestream-service
-    container_name: Acestream
+    container_name: AcestreamEngine
+    image: wafy80/acestream:latest
     restart: unless-stopped
-    environment:
-      - SCHEME=http
-      - ENTRY=4002
-      - PORT=80
-    expose:
-      - "80"  # visibile solo all'interno della rete "acestream-network"
-    networks:
-      - acestream-network
-
-networks:
-  acestream-network:
-    external: true
+    ports:
+      - "4002:6878"
