@@ -3,6 +3,8 @@ services:
     container_name: AcestreamEngine
     image: wafy80/acestream:latest
     restart: unless-stopped
+    ports:
+      - "8621:8621/udp" # esporre solo la porta UDP 8621 per prestazioni migliori (p2p, etc..)
     networks:
       - acestream-network
 
