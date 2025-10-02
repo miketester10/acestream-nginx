@@ -3,7 +3,7 @@ server {
 
     location / {
         # Consenti solo a questo IP
-        allow <IP-HOME>;  # Sostituire con l'ip di casa o con quello a cui vogliamo consentire per l'accesso ad Acestream
+        allow <IP-HOME>;  # Sostituire con l'ip di casa o con quello a cui vogliamo consentire l'accesso ad Acestream
         deny all;
 
         # Inoltra le richieste al container Acestream
