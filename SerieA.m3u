@@ -1,5 +1,7 @@
 #EXTM3U Serie A
 
+#EXTINF:-1, Canal+ HD
+http://154.12.117.204:4002/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
 #EXTINF:-1, Dazn 1 Bar FullHD
 http://154.12.117.204:4002/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
@@ -28,8 +30,14 @@ http://154.12.117.204:4002/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea403
 #EXTINF:-1, Eleven Sport 3 FullHD (50fps)
 http://154.12.117.204:4002/ace/getstream?infohash=95bf662561dba1859c9e4763f4ae7d9d1918fb0d
 
+#EXTINF:-1, МАTCH 1 HD (original) (50fps)
+http://154.12.117.204:4002/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+
 #EXTINF:-1, МАTCH 1 HD (50fps)
 http://154.12.117.204:4002/ace/getstream?infohash=79f88ec166e314743c187a4932772e435ab54f87
+
+#EXTINF:-1, МАTCH 2 HD (original) (50fps)
+http://154.12.117.204:4002/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 
 #EXTINF:-1, МАTCH 2 HD (50fps)
 http://154.12.117.204:4002/ace/getstream?infohash=cf52f10c63de0165cedeaf04d6cfe03d77387d5d
@@ -51,6 +59,9 @@ http://154.12.117.204:4002/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3
 
 #EXTINF:-1, PIMPLETV.RU 2
 http://154.12.117.204:4002/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+
+#EXTINF:-1, PREMIER SPORTS 2
+http://154.12.117.204:4002/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 
 #EXTINF:-1, SETANTA SPORT 1
 http://154.12.117.204:4002/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
